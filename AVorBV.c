@@ -3,8 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-//How?
-
 long long a = 177451812, b = 100618342136696320;
 char table[59] = "fZodR9XQDSUm21yCkr6zBqiveYah8bt4xsWpHnJE7jL5VG3guMTKNPAwcF";
 
